@@ -1,0 +1,40 @@
+{
+  "recommendations": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "gender": "female",
+      "location": "Malaysia",
+      "university": "University of Malaysia",
+      "interests": "hiking, reading",
+      "img": "https://images.pexels.com/photos/3042160/pexels-photo-3042160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "name": "Brianna",
+      "gender": "female",
+      "location": "Malaysia",
+      "university": "Too cool for that",
+      "interests": "traveling, RAVING",
+      "img":"https://images.pexels.com/photos/698532/pexels-photo-698532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "name": "Cecilia",
+      "gender": "female",
+      "location": "Singapore",
+      "university": "SMU",
+      "interests": "movies, cooking",
+      "img":"https://images.pexels.com/photos/654708/pexels-photo-654708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 4,
+      "name": "Daisy",
+      "gender": "female",
+      "location": "Singapore",
+      "university": "NUS",
+      "interests": "sports, music",
+      "img":"https://images.pexels.com/photos/3756945/pexels-photo-3756945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}
